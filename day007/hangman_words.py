@@ -1,0 +1,30 @@
+# hangman_words.py
+
+word_list = [
+    "apple",
+    "banana",
+    "mango",
+    "strawberry",
+    "orange",
+    "grape",
+    "pineapple",
+    "apricot",
+    "lemon",
+    "coconut",
+    "watermelon",
+    "cherry",
+    "papaya",
+    "berry",
+    "peach",
+    "lychee",
+    "muskmelon",
+    "abruptly",
+    "awkward",
+    "jazzy",
+    "pizazz",
+    "sphinx",
+    "rhythm",
+    "strength",
+    "lucky",
+    "galaxy"
+]
