@@ -1,0 +1,2 @@
+First line of my_file.txt (OVERWRITTEN), just a simple phrase
+With the new line I realize we've done this for 24 days
