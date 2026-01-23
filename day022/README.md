@@ -18,15 +18,15 @@ Recreate the classic PONG video game using Python, with heavy reliance on object
   1. I built it in Python 3.14.2, but I think it should work in any 3.x based on the standard libraries and code used.
 
 ## Development Workflow
-- [ x ] 1. Create the screen 
-- [ x ] 2. Create and move a paddle
-- [ x ] 3. Create another paddle
-- [ x ] 4. Create the ball and make it move
-- [ x ] 5. Detect collision with wall and bounce
-- [ x ] 6. Detect collision with paddle and bounce
-- [ x ] 7. Detect when paddle misses
-- [ x ] 8. Keep score
-- [ x ] 9. DEPLOY and TEST (locally) 
+- [x] 1. Create the screen 
+- [x] 2. Create and move a paddle
+- [x] 3. Create another paddle
+- [x] 4. Create the ball and make it move
+- [x] 5. Detect collision with wall and bounce
+- [x] 6. Detect collision with paddle and bounce
+- [x] 7. Detect when paddle misses
+- [x] 8. Keep score
+- [x] 9. DEPLOY and TEST (locally) 
 
 ## Reflection
 | DATE  | NOTES |
