@@ -10,20 +10,22 @@ My work files (separated by day and/or project), as a student in [Dr. Angela Yu'
 * stretch goals: orchestrated AI completing tasks or entire projects autonomously, using command line interface and/or API
 
 ## Highlights
-* [day011](./day011) **Blackjack** I love blackjack and I enjoyed doing a deep dive into Ascii art generators for future command line projects
-* [day021](./day021) **Snake game** was a great experience in learning python Classes and pushing beyond limits to learn about file read/writes to make the game better (high scores).
-* [day022](./day022) **Pong game** was fun to reminisce playing this the first time around, also was my first invocation of Gemini for "grunt work" (refactor all my game tweaking variables into ./day022/constants.py) 
-* [day023](./day023) **Turtle Crossing Game** where i really started using the README to drive code execution manually and with Gemini Code Assist
+* [day011](./solutions/day011) **Blackjack** I love blackjack and I enjoyed doing a deep dive into Ascii art generators for future command line projects
+* [day021](./solutions/day021) **Snake game** was a great experience in learning python Classes and pushing beyond limits to learn about file read/writes to make the game better (high scores).
+* [day022](./solutions/day022) **Pong game** was fun to reminisce playing this the first time around, also was my first invocation of Gemini for "grunt work" (refactor all my game tweaking variables into ./day022/constants.py) 
+* [day023](./solutions/day023) **Turtle Crossing Game** where i really started using the README to drive code execution manually and with Gemini Code Assist
+* [day028](./solutions/day028) **Pomodoro Timer** I love pomodoro method so my interest was piqued and I really liked learning about how to control on-screen timers
 <!-- 
-* [day028](./day028) **Pomodoro Timer** I love pomodoro method so my interest was piqued and I really liked learning about how to control on-screen timers
+* [day0xx](./solutions/day0xx) **Project Name** comment
 -->
 ## To Run
 1. Instructions in each README.MD of major project folders to user on how to run either from web (if available) or in their local environment
 
 
 ## Reflection
-|             |                                                                                                                                                                                                                                                               |
-| ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| DATE        | COMMENTS |
+| ----------- | -------- |
+| 23-jan-2026 | feeling stronger with the combo of writing strong req's in README.MD then pair programming with Google Code Assist in code completion AND left pane prompts of vs code.
 | 13-jan-2026 | SNAKE game and PONG game complete (days 21 and 22), now seeing the usefulness of python in simple pixel rendering / animation / gaming applications. I also like how the superclass / class inheritance works, excited about learning how to apply that more. |
 | 09-jan-2026 | after doing the basics (first 14 days packed into 9 days), i can see how python scripts are very useful for math and quick logic applications. Skeptical on their application to web development but we'll get there in the class.                            |
 
