@@ -12,6 +12,13 @@ Short crisp sentence of what this project sets out to do.
 
 ## Mockup
 ![src/assets/mockup.png](src/assets/mockup.png)
+<!--
+  * alternative method for images, html tags are also supported & help you size the image like:
+<img src="docs/pomodoro_method.jpeg" width="700">  
+  * as you can see, you can make markdown comments using the arrow bang dash dash just like HTML comments
+  * Useful for drafting stuff that you want to commit & push for safe draft keeping,
+  * but don't want to broadcast via the auto README display in your Github folder.
+-->
 
 ## Diagram(s)
 ## Sequence Diagram
@@ -47,3 +54,4 @@ Short crisp sentence of what this project sets out to do.
 
 ## References
   * [README.md Best Practices](https://github.com/jehna/readme-best-practices) In case you don't use mine, I follow not a lot of these 😂
+  * [Markdown Guide - Basic Syntax](https://www.markdownguide.org/basic-syntax/)

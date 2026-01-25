@@ -1,6 +1,7 @@
 # pythonCourse - Rudi Lewis
 ## Project Description
-My work files (separated by day and/or project), as a student in [Dr. Angela Yu's 100 Days of Code: The Complete Python Pro Bootcamp](https://www.udemy.com/course/100-days-of-code/), available on udemy. 
+Yes I used camelCase to name a python repo. Shows how little python I knew when I started the class. (JS guy here.)
+This repo contains my work files (separated by day and/or project), as a student in [Dr. Angela Yu's 100 Days of Code: The Complete Python Pro Bootcamp](https://www.udemy.com/course/100-days-of-code/), available on udemy. 
 
 ## Deliverables
 * MVP: Complete the 100 Days of Code with 
@@ -11,7 +12,7 @@ My work files (separated by day and/or project), as a student in [Dr. Angela Yu'
 
 ## Highlights
 * [day021](./solutions/day021) **Snake game** was a great experience in learning python Classes, inheritance, Objects, and pushing beyond limits to learn about file read/writes to make the game better (high scores).
-* [day022](./solutions/day022) **Pong game** was fun to reminisce playing this the first time around 👴🏼, also was my first invocation of Gemini for "grunt work" (refactor all my game tweaking variables into ./day022/constants.py) 
+* [day022](./solutions/day022) **Pong game** was fun to reminisce playing this the first time around 👴🏼, also was my first invocation of Gemini for "grunt work" (refactor all my game tweaking variables across *.py into a constants.py file)
 * [day023](./solutions/day023) **Turtle Crossing Game** where i really started using the README to drive code execution manually and with Gemini Code Assist
 * [day028](./solutions/day028) **Pomodoro Timer** I love pomodoro method so my interest was piqued and I really liked learning about how to control on-screen timers
 * [day031](./solutions/day031) **Language Flash Cards** Most useful end-user output of all the projects so far! Enjoyed working through nested try/except blocks to ensure data read/writes 
@@ -36,4 +37,5 @@ My work files (separated by day and/or project), as a student in [Dr. Angela Yu'
 * [Dr. Angela Yu's 100 Days of Code: The Complete Python Pro Bootcamp](https://www.udemy.com/course/100-days-of-code/)
 * [Python.org](https://www.python.org/)
 * [pypi.org](https://pypi.org/) Can't live without it. It's like node.js for Python 😂. (Package downloads and docs)
+* [Markdown Guide - Basic Syntax](https://www.markdownguide.org/basic-syntax/)
 * [Mermaid Diagram Syntax](https://mermaid.js.org/intro/syntax-reference.html) I started using this __a lot__ to diagram in later projects. Fully compatible with Markdown (including GitHub Markdown) and MOST LLM's speak it, too!

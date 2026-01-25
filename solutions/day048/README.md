@@ -14,6 +14,8 @@ Use the Selenium package to scrape the Cookie Clicker game with these goals:
   - [x] opens the site (game) in Selenium webdriver (aka "Test Software") mode
   - [x] completes the description above using Selenium methods for scrapes and clicks, and Python (and time package) for the timers & logic. 
 - [x] Resulting in: **28 clicks/second top rate.**
+- [x] utilize object oriented programming wherever possible (classes and methods in separate external files, use class inheritance, keep main.py very tight and readable for flow.)
+- [x] employ great documentation in any and all *.py files, written so other developers and casuals can easily understand your code blocks and flow
 ### Stretch Goals:
 - [x] Add improvements to upgrade recognition (v1 was not recognizing tech upgrades palette)
 - [x] Add timing enhancements (we're buying too many "little" upgrades that have diminishing returns, need to save up cookies for "bigger" purchases.)
@@ -44,4 +46,6 @@ Use the Selenium package to scrape the Cookie Clicker game with these goals:
 
 ## References
   * [Cookie Clicker Game (new version)](https://ozh.github.io/cookieclicker/)
-  * [Selenium Documentation](https://www.selenium.dev/documentation/)
+  * [Selenium Dev Documentation](https://www.selenium.dev/documentation/)
+  * [Selenium Read The Docs User Documentation](https://selenium-python.readthedocs.io/)
+ 
