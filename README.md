@@ -14,6 +14,9 @@ My work files (separated by day and/or project), as a student in [Dr. Angela Yu'
 * [day022](./solutions/day022) **Pong game** was fun to reminisce playing this the first time around 👴🏼, also was my first invocation of Gemini for "grunt work" (refactor all my game tweaking variables into ./day022/constants.py) 
 * [day023](./solutions/day023) **Turtle Crossing Game** where i really started using the README to drive code execution manually and with Gemini Code Assist
 * [day028](./solutions/day028) **Pomodoro Timer** I love pomodoro method so my interest was piqued and I really liked learning about how to control on-screen timers
+* [day031](./solutions/day031) **Language Flash Cards** Most useful end-user output of all the projects so far! Enjoyed working through nested try/except blocks to ensure data read/writes 
+* [day034](./solutions/day034) **Quizzler GUI Quiz App** I put some nice upgrades in here for real-time stats to the user, and making the pull of the random quizzes dead simple
+* [day048](./solutions/day048) **Cookie Clicker Bot** Great practice with Selenium (much more powerful web scraper/clicker than BeautifulSoup), and very interesting optimization problems for stat hounds.
 <!-- 
 * [day0xx](./solutions/day0xx) **Project Name** comment
 -->
