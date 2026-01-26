@@ -1,25 +1,28 @@
 # pythonCourse - Rudi Lewis
 ## Project Description
-Yes I used camelCase to name a python repo. Shows how little python I knew when I started the class. (JS guy here.)
 This repo contains my work files (separated by day and/or project), as a student in [Dr. Angela Yu's 100 Days of Code: The Complete Python Pro Bootcamp](https://www.udemy.com/course/100-days-of-code/), available on udemy. 
+*Yes I used camelCase to name a python repo. Shows you how little python I knew when I started the class.* 😂 (JS guy here.)
 
 ## Deliverables
-* MVP: Complete the 100 Days of Code with 
+### MVP: Complete the 100 Days of Code with 
   * __good__ knowledge of the main components and structure of the python language
   * __great__ knowledge of when and how to use python's best/most well known / external libraries (especially for data i/o/manipulation and data analytics and visualization)
-  * __intrinsic__ knowledge of how to assign and guide python projects to AI agents using Google Code Assist in vs code in both prompt and agent mode.
-* stretch goals: orchestrated AI completing tasks or entire projects autonomously, using command line interface and/or API
+  * __intrinsic__ knowledge of how to assign and guide python projects to AI agent(s) using: 
+    * **Google Code Assist (extension of vs code)**
+      * supporting comments (roles and instructions) to Gemini 3.0 Pro as inline code comments and external markdown context files, in both prompt and agent mode.
+### Stretch Goals: 
+  * orchestrated AI completing tasks or entire projects autonomously, using command line interface and/or API from Google (Gemini) and/or Anthropic (Claude).
 
 ## Highlights
-* [day021](./solutions/day021) **Snake game** was a great experience in learning python Classes, inheritance, Objects, and pushing beyond limits to learn about file read/writes to make the game better (high scores).
-* [day022](./solutions/day022) **Pong game** was fun to reminisce playing this the first time around 👴🏼, also was my first invocation of Gemini for "grunt work" (refactor all my game tweaking variables across *.py into a constants.py file)
-* [day023](./solutions/day023) **Turtle Crossing Game** where i really started using the README to drive code execution manually and with Gemini Code Assist
-* [day028](./solutions/day028) **Pomodoro Timer** I love pomodoro method so my interest was piqued and I really liked learning about how to control on-screen timers
+* [day021](./solutions/day021) **Snake game** A great experience in learning python Classes, inheritance, Objects, and pushing beyond limits to learn about file read/writes to make the game better (high scores).
+* [day023](./solutions/day023) **Turtle Crossing Game** Where i really started using the individual project README.md's to drive code execution for myself, AND with Gemini Code Assist
+* [day028](./solutions/day028) **Pomodoro Timer** I love pomodoro method so my interest was piqued and i really liked learning about how to control on-screen timers
 * [day031](./solutions/day031) **Language Flash Cards** Most useful end-user output of all the projects so far! Enjoyed working through nested try/except blocks to ensure data read/writes 
 * [day034](./solutions/day034) **Quizzler GUI Quiz App** I put some nice upgrades in here for real-time stats to the user, and making the pull of the random quizzes dead simple
 * [day048](./solutions/day048) **Cookie Clicker Bot** Great practice with Selenium (much more powerful web scraper/clicker than BeautifulSoup), and very interesting optimization problems for stat hounds.
 <!-- 
 * [day0xx](./solutions/day0xx) **Project Name** comment
+* [day022](./solutions/day022) **Pong game** was fun to reminisce playing this the first time around 👴🏼, also was my first invocation of Gemini for "grunt work" (refactor all my game tweaking variables across *.py into a constants.py file)
 -->
 ## To Run
 1. Instructions in each README.MD of major project folders to user on how to run either from web (if available) or in their local environment
