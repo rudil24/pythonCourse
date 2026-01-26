@@ -54,6 +54,7 @@ coverage.xml
 *.cover
 .hypothesis/
 .pytest_cache/
+chrome_profile/
 
 # BELOW THIS LINE are from the .gitignore template for Node.js projects (Node.gitignore) on GitHub.
 # find that and more .gitignore templates at https://github.com/github/gitignore
