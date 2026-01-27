@@ -23,6 +23,7 @@ This repo contains my work files (separated by day and/or project), as a student
 <!-- 
 * [day0xx](./solutions/day0xx) **Project Name** comment
 * [day022](./solutions/day022) **Pong game** was fun to reminisce playing this the first time around 👴🏼, also was my first invocation of Gemini for "grunt work" (refactor all my game tweaking variables across *.py into a constants.py file)
+* [day053](./solutions/day053) **Zillow Alerts** this keystone project helped me put together all of my web scraping and clicking skills from BeautifulSoup and Selenium into a "rental search bot".
 -->
 ## To Run
 1. Instructions in each README.MD of major project folders to user on how to run either from web (if available) or in their local environment
