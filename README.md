@@ -20,10 +20,10 @@ This repo contains my work files (separated by day and/or project), as a student
 * [day031](./solutions/day031) **Language Flash Cards** Most useful end-user output of all the projects so far! Enjoyed working through nested try/except blocks to ensure data read/writes 
 * [day034](./solutions/day034) **Quizzler GUI Quiz App** I put some nice upgrades in here for real-time stats to the user, and making the pull of the random quizzes dead simple
 * [day048](./solutions/day048) **Cookie Clicker Bot** Great practice with Selenium (much more powerful web scraper/clicker than BeautifulSoup), and very interesting optimization problems for stat hounds.
+* [day053](./solutions/day053) **Zillow Web Scraper** this keystone project helped me put together all of my web scraping and clicking skills from BeautifulSoup and Selenium into a "rental search bot".
 <!-- 
 * [day0xx](./solutions/day0xx) **Project Name** comment
 * [day022](./solutions/day022) **Pong game** was fun to reminisce playing this the first time around 👴🏼, also was my first invocation of Gemini for "grunt work" (refactor all my game tweaking variables across *.py into a constants.py file)
-* [day053](./solutions/day053) **Zillow Alerts** this keystone project helped me put together all of my web scraping and clicking skills from BeautifulSoup and Selenium into a "rental search bot".
 -->
 ## To Run
 1. Instructions in each README.MD of major project folders to user on how to run either from web (if available) or in their local environment
@@ -32,6 +32,7 @@ This repo contains my work files (separated by day and/or project), as a student
 ## Reflection
 | DATE        | COMMENTS |
 | ----------- | -------- |
+| 27-jan-2026 | web scraping and clicking is another good use of python and its external packages, although when I looked into it, the tools we used (Selenium and BeautifulSoup) are probably passé for "modern" tools like MS Playwright and new LLM-based scraping (BrowserUse/LangChain or ScrapeGraphAI)
 | 23-jan-2026 | feeling stronger with the combo of writing strong req's in README.MD then pair programming with Google Code Assist in code completion AND left pane prompts of vs code. |
 | 13-jan-2026 | SNAKE game and PONG game complete (days 21 and 22), now seeing the usefulness of python in simple pixel rendering / animation / gaming applications. I also like how the superclass / class inheritance works, excited about learning how to apply that more. |
 | 09-jan-2026 | after doing the basics (first 14 days packed into 9 days), i can see how python scripts are very useful for math and quick logic applications. Skeptical on their application to web development but we'll get there in the class.                            |
