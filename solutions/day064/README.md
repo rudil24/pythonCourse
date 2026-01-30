@@ -72,6 +72,7 @@ flowchart TD
   2. I built it in Python 3.14.2, but I think it should work in any 3.x based on the standard libraries and code used.
 
 ## Final Product!
+<img src="docs/top10movies_rl_01.png" width="500"> <img src="docs/top10movies_rl_02.png" width="500"> <img src="docs/top10movies_rl_03.png" width="500">
 
 ## Development Workflow
 + [x] 1. Programmatically create an SQLite database using SQLAlchemy. The database needs to contain a "Movie" Table.

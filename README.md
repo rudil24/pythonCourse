@@ -21,6 +21,7 @@ This repo contains my work files (separated by day and/or project), as a student
 * [day034](./solutions/day034) **Quizzler GUI Quiz App** I put some nice upgrades in here for real-time stats to the user, and making the pull of the random quizzes dead simple
 * [day048](./solutions/day048) **Cookie Clicker Bot** Great practice with Selenium (much more powerful web scraper/clicker than BeautifulSoup), and very interesting optimization problems for stat hounds.
 * [day053](./solutions/day053) **Zillow Web Scraper** this keystone project helped me put together all of my web scraping and clicking skills from BeautifulSoup and Selenium into a "rental search bot".
+* [day064](./solutions/day064) **My Top 10 Movies** great project featuring database i/o, real world API communication, and advanced CSS styling, that I 100% no-coded by writing a README.md for Gemini 3.0 Pro to do the work.
 <!-- 
 * [day0xx](./solutions/day0xx) **Project Name** comment
 * [day022](./solutions/day022) **Pong game** was fun to reminisce playing this the first time around 👴🏼, also was my first invocation of Gemini for "grunt work" (refactor all my game tweaking variables across *.py into a constants.py file)
