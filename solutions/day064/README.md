@@ -94,7 +94,7 @@ flowchart TD
 ## Reflection
 | DATE        | NOTES |
 | ----------- | ----- | 
-| 30-jan-2026 | Woke up thinking about why Gemini deleted all the pre-built css from Angela and built its own. Answer, it felt more comfortable doing the heady "hover to card-flip" required! [(very bottom of chat.)](/.docs/gemini_chat.md)
+| 30-jan-2026 | Woke up thinking about why Gemini deleted all the pre-built css from Angela and built its own. Answer, it felt more comfortable doing the heady "hover to card-flip" required! [(very bottom of chat.)](./docs/gemini_chat.md)
 | 29-jan-2026 | Why did Gemini not fill in all the development workflow "checks" (see Dev workflow step 2)? [I asked them about it in the final review (scroll to 2nd to last question at bottom of chat)](./docs/gemini_chat.md), along with whether Flow Diagram and Mockups were helpful (they both were!)
 | 29-jan-2026 | Did this project 100% from this README.md and a single prompt to Gemini Code Assist in the left pane of vs code. INCLUDING working out the API comms on its own, from the pointer to TMDB api docs. Gemini delivered working code on the first try, then i just had a few follow up prompts for slight improvements to css background and styling improvements. I'll probably work through a couple more this way, then I'm looking to go agentic. | 
 | 29-jan-2026 | First mermaid flow diagram experience, not sure that it added a lot to my or Gemini's knowledge (the deliverables already talked through the flow. I'll get Gemini's take on it in the chat.)
