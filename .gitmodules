@@ -1,0 +1,3 @@
+[submodule "solutions/day070/Wordle-Game"]
+	path = solutions/day070/Wordle-Game
+	url = https://github.com/rudil24/Wordle-Game
