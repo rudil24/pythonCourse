@@ -4,7 +4,7 @@ Here are things to consider when taking a Python application to a "live" web pro
 2. use a .gitignore in your local project root folder, preferrably one that's [built for Python](https://github.com/github/gitignore/blob/main/Python.gitignore) 
    * make SURE .env is ignored in your .gitignore
 3. store keys & private info in your local .env (should back that up somewhere local too, since Github won't), then `import os` library in whatever .py's these vars are found, replace keys with `os.environ.get("KEY_NAME")` to recall them at runtime
-   * ex: app.config["SECRET_KEY"] = os.environ.get("FLASK_KEY")
+   * ex: `app.config["SECRET_KEY"] = os.environ.get("FLASK_KEY")`
 4. enable a WSGI (Web Server Gateway Interface) in your requirements.txt. The most popular of these is [gunicorn](https://gunicorn.org/). 
 5. create Procfile in project root directory (named exactly `Procfile`, no dot extension, that summons the WSGI for your app.) 
    * if using gunicorn, and your app is in main.py, your Procfile looks like:
