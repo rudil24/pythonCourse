@@ -1,0 +1,21 @@
+# Web Scraping & API (Billboard project)
+requests
+beautifulsoup4
+lxml
+
+# Data Analysis
+pandas
+numpy
+seaborn
+matplotlib
+
+# Notebook & Display Tools
+ipykernel
+ipython
+
+# Automation & Browser
+selenium
+webdriver-manager
+
+# Environment & Utilities
+python-dotenv
