@@ -1,7 +1,15 @@
-# Web Scraping & API (Billboard project)
+# Web & API
 requests
 beautifulsoup4
 lxml
+flask
+gunicorn
+
+# Security
+werkzeug
+
+# Database
+sqlalchemy
 
 # Data Analysis
 pandas
