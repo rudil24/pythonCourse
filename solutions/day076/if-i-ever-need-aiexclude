@@ -1,0 +1,12 @@
+# Gemini Code Assist will read this file for this project folder
+# This forces Gemini to treat notebooks as "write-only" for new code (avoiding the "destory" error) while allowing it to fully index your .py and .js files for the best possible assistance.
+# Ignore Jupyter Notebooks to prevent "can't destroy" errors
+**/*.ipynb
+
+# Ignore hidden notebook checkpoints
+**/.ipynb_checkpoints/
+
+# Keep indexing active for core logic files
+!**/*.py
+!**/*.js
+!**/*.ejs

@@ -17,6 +17,7 @@ numpy
 seaborn
 matplotlib
 plotly
+nbformat
 
 # Notebook & Display Tools
 ipykernel
