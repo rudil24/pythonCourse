@@ -16,6 +16,7 @@ pandas
 numpy
 seaborn
 matplotlib
+plotly
 
 # Notebook & Display Tools
 ipykernel
