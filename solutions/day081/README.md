@@ -1,0 +1,15 @@
+# Solution & Learning Points
+
+This was the most challenging data science project to date!
+
+## Today I've learned
+
+* How to quickly spot relationships in a dataset using Seaborn's .pairplot().
+* How to split the data into a training and testing dataset to better evaluate a model's performance.
+* How to run a multivariable regression.
+* How to evaluate that regression-based on the sign of its coefficients.
+* How to analyse and look for patterns in a model's residuals.
+* How to improve a regression model using (a log) data transformation.
+* How to specify your own values for various features and use your model to make a prediction.
+
+For all the details, take a look at my [final](./Multivariable_Regression_and_Valuation_Model_(final).ipynb) notebook.
