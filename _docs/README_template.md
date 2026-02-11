@@ -1,57 +1,97 @@
 # Project Name - Author
+
 ## Project Description
+
 Short crisp sentence of what this project sets out to do.
 
-## Deliverables
-### MVP: 
-  * sub-bullets of MVP deliverables
-### Stretch Goals: 
-  * sub-bullets of stretch deliverables
-### Super Stretch Goals: 
-  * sub-bullets of super stretch deliverables
-
 ## Mockup
-![src/assets/mockup.png](src/assets/mockup.png)
-<!--
-  * alternative method for images, html tags are also supported & help you size the image like:
-<img src="docs/pomodoro_method.jpeg" width="700">  
-  * as you can see, you can make markdown comments using the arrow bang dash dash just like HTML comments
-  * Useful for drafting stuff that you want to commit & push for safe draft keeping,
-  * but don't want to broadcast via the auto README display in your Github folder.
+
+![./docs/mockup.png](./docs/mockup.png)
+
+<!-- to have more control over image size & appearance, markdown supports html img tags also:
+<img src="./docs/mockup.png" width="700">  
 -->
 
-## Diagram(s)
-## Sequence Diagram
+## To Run
+<!-- 
+### On The Web 
+1. Project in its current state runs live on any device via standard browser at https://
+-->
+### In Your Local Environment
+<!-- Python Project Local Environment Template-->
+1. git clone this repo to a local project folder
+2. consult `./requirements.txt` for necessary libraries to install (easily install those at the command line in your project folder with `pip install -r requirements.txt`)
+3. consult `./.env.example` for clues on environment variables you'll need to provide in your own `.env` file using your own credentials (if required)
+4. I built this project in __Python 3.14.2__, but I think it should work in any 3.8x or newer, based on the standard libraries and code used.
+
+## Product Roadmap (Deliverables)
+
+### MVP (Must Do)
+
+- [ ] tick list of MVP deliverables
+- [x] utilize object oriented programming wherever possible (classes and methods in separate external files, use class inheritance, keep main.py very tight and readable for flow.)
+- [x] employ great documentation in any and all *.py files, written so other developers and casuals can easily understand your code blocks and flow
+
+### Stretch Goals (Should Do at some point)
+
+- [ ] tick list of stretch deliverables
+  
+### Super-Stretch Goals (Could Do at some point)
+
+- [ ] tick list of super stretch deliverables
+
+### Out of Scope (Won't Do)
+
+- list of things we recognize but don't plan on addressing with this project
+
+## Design
+
+### Flowchart (Program Logic Flow)
+
 ```mermaid
-%% mermaid comments are double percent signs, mermaid live editor & docs [here](https://mermaid.live)
+%% comment: follow the ```mermaid line with specific diagram type (see more types at bottom of this file)
+flowchart TD
+    A[Christmas] -->|Get money| B(Go shopping)
+    B --> C{Let me think}
+    C -->|One| D[Laptop]
+    C -->|Two| E[iPhone]
+    C -->|Three| F[Car]
+%% comment: end the diagram with ``` on its own line
 ```
 
-## To Run
-1. Instructions to user on how to run either from web or in their local environment
-2. next instruction
-
 ## Development Workflow
-- [ ] 1. do this 
+
+- [ ] 1. do this
 - [ ] 2. do that
 - [ ] 3. do 3
-- [ ] 4. build MVP. task breakdown:
-  - [ ] subtask 4.1
-  - [ ] subtask 4.2
-  - [ ] subtask 4.3
-- [ ] 5. Five has bullets instead of subtasks
-    * YES - single sans-serif font (poppins?)
-    * YES - light mode in pick side too
-    * NO - glow in dark from https://mui.com/material-ui/getting-started/templates/marketing-page/
-    * YES - my improved light/dark ball color palette
-    * YES - no gray balls (we'll use gray when we pull them before reveal)
-- [ ] 6. DEPLOY, test with 10% of actual users 
+- [ ] 4. do 4
+  - [ ] 4.1 subtask
+  - [ ] 4.2 subtask
+  - [ ] 4.3 subtask
+- [ ] 5. END-TO-END TEST in as close to production environment as possible
+- [ ] 6. PRODUCTION BETA to fraction of actual users
+- [ ] 7. FULL DEPLOYMENT ramp to 100% production
 
 ## Reflection
-| DATE        | COMMENTS |
+
+| DATE | COMMENTS |
 | ----------- | -------- |
 | 01-jan-2026 | SUMMARY: do this one last (you'll always put the most recent date at the top of the stack) |
 | 31-dec-2025 | brief comments on what you did and learned that day |
 
 ## References
-  * [README.md Best Practices](https://github.com/jehna/readme-best-practices) In case you don't use mine, I follow not a lot of these 😂
-  * [Markdown Guide - Basic Syntax](https://www.markdownguide.org/basic-syntax/)
+
+- [README.md Best Practices](https://github.com/jehna/readme-best-practices) I follow (some, not a lot of) these best practices 😂
+- [Markdown Guide - Basic Syntax](https://www.markdownguide.org/basic-syntax/)
+
+<!-- MORE EXAMPLES OF MERMAID DIAGRAMS
+### Block Architecture Diagram (System Main Components)
+architecture-beta
+### Sequence Diagram (User Interaction)
+sequenceDiagram
+### Entity Relationships (Data Design)
+erDiagram
+
+can also do Gantt, Customer Journey/Friction, Pie, X/Y, Quadrant, Mindmap, many others.
+see Mermaid live editor & docs [here](https://mermaid.live) for all possibilities 
+-->

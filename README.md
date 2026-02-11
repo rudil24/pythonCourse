@@ -48,7 +48,7 @@ This repo contains my work files (separated by day and/or project), as a student
 | 27-jan-2026 | web scraping and clicking is another good use of python and its external packages, although when I looked into it, the tools we used (Selenium and BeautifulSoup) are probably passé for "modern" tools like MS Playwright and new LLM-based scraping (BrowserUse/LangChain or ScrapeGraphAI) |
 | 23-jan-2026 | feeling stronger with the combo of writing strong req's in README.MD then pair programming with Google Code Assist in code completion AND left pane prompts of vs code. |
 | 13-jan-2026 | SNAKE game and PONG game complete (days 21 and 22), now seeing the usefulness of python in simple pixel rendering / animation / gaming applications. I also like how the superclass / class inheritance works, excited about learning how to apply that more. |
-| 09-jan-2026 | after doing the basics (first 14 days packed into 9 days), i can see how python scripts are very useful for math and quick logic applications. Skeptical on their application to web development but we'll get there in the class.                            |
+| 09-jan-2026 | after doing the basics (first 14 days packed into 9 days), i can see how python scripts are very useful for math and quick logic applications. Skeptical on their application to web development but we'll get there in the class. |
 
 ## References
 
