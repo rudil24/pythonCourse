@@ -30,6 +30,7 @@ This repo contains my work files (separated by day and/or project), as a student
 * [day053](./solutions/day053) __Zillow Web Scraper__ this keystone project helped me put together all of my web scraping and clicking skills from BeautifulSoup and Selenium into a "rental search bot".
 * [day064](./solutions/day064) __My Top 10 Movies__ great project featuring database i/o, real world API communication, and advanced CSS styling, that I 100% no-coded by writing a README.md for Gemini 3.0 Pro to do the work.
 * [day081](./solutions/day081) __Multivariable Regression and Valuation Model__ a keystone project that combined a lot of my knowledge from the Jupyter Notebook / data science 10 days of the course
+* [day082](https://github.com/rudil24/morse_code) __Morse Code Translator__ first of the "keystone portfolio" series of projects at the end of the course. This one was terminal based and only 60 MINUTES ALLOWED FOR DEV TIME!
 <!-- 
 * [day0xx](./solutions/day0xx) **Project Name** comment
 * [day022](./solutions/day022) **Pong game** was fun to reminisce playing this the first time around 👴🏼, also was my first invocation of Gemini for "grunt work" (refactor all my game tweaking variables across *.py into a constants.py file)
